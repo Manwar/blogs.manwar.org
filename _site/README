@@ -9,8 +9,8 @@ $ sudo gem install execjs
 
 $ sudo gem install jekyll
 
-$ jekyll new www-manwar-org
+$ jekyll new blogs.manwar.org
 
-$ cd www-manwar-org
+$ cd blogs.manwar.org
 
-$ jekyll serve
+$ jekyll server

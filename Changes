@@ -1,4 +1,9 @@
 Revision history
 
+0.02  Mon Mar 09 23:00:00 2015
+      - Added .gitignore file.
+      - Ignore .saas_cache/ folder.
+      - Updated README file.
+
 0.01  Mon Mar 09 17:35:00 2015
       - First draft released.
